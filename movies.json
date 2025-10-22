@@ -1,0 +1,20 @@
+{ "index": { "_index": "movies" } }
+{ "title": "Inception", "year": 2010, "genre": ["Sci-Fi", "Thriller"], "rating": 8.8, "director": "Christopher Nolan", "duration_min": 148 }
+{ "index": { "_index": "movies" } }
+{ "title": "The Dark Knight", "year": 2008, "genre": ["Action", "Drama"], "rating": 9.0, "director": "Christopher Nolan", "duration_min": 152 }
+{ "index": { "_index": "movies" } }
+{ "title": "Interstellar", "year": 2014, "genre": ["Sci-Fi", "Drama"], "rating": 8.6, "director": "Christopher Nolan", "duration_min": 169 }
+{ "index": { "_index": "movies" } }
+{ "title": "The Matrix", "year": 1999, "genre": ["Sci-Fi", "Action"], "rating": 8.7, "director": "Lana Wachowski", "duration_min": 136 }
+{ "index": { "_index": "movies" } }
+{ "title": "The Godfather", "year": 1972, "genre": ["Crime", "Drama"], "rating": 9.2, "director": "Francis Ford Coppola", "duration_min": 175 }
+{ "index": { "_index": "movies" } }
+{ "title": "Pulp Fiction", "year": 1994, "genre": ["Crime", "Drama"], "rating": 8.9, "director": "Quentin Tarantino", "duration_min": 154 }
+{ "index": { "_index": "movies" } }
+{ "title": "Avengers: Endgame", "year": 2019, "genre": ["Action", "Adventure"], "rating": 8.4, "director": "Anthony Russo", "duration_min": 181 }
+{ "index": { "_index": "movies" } }
+{ "title": "Titanic", "year": 1997, "genre": ["Drama", "Romance"], "rating": 7.8, "director": "James Cameron", "duration_min": 195 }
+{ "index": { "_index": "movies" } }
+{ "title": "Gladiator", "year": 2000, "genre": ["Action", "Drama"], "rating": 8.5, "director": "Ridley Scott", "duration_min": 155 }
+{ "index": { "_index": "movies" } }
+{ "title": "The Lion King", "year": 1994, "genre": ["Animation", "Adventure"], "rating": 8.5, "director": "Roger Allers", "duration_min": 88 }

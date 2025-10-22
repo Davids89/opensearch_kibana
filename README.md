@@ -19,7 +19,7 @@ This project provides a simple Docker Compose setup for running [OpenSearch](htt
 ### Start the stack
 
 ```sh
-docker compose up -d
+make upd
 ```
 
 ### Access OpenSearch Dashboards
@@ -30,13 +30,13 @@ Open your browser and go to:
 ### Stop the stack
 
 ```sh
-docker compose down
+make down
 ```
 
 To remove all data (reset everything):
 
 ```sh
-docker compose down -v
+make down-v
 ```
 
 ## Configuration
